@@ -2,7 +2,7 @@
 
 ## Introduction
 The objective of this project is to build a deep learning model that can classify images of cats and dogs.  
-We use a **Convolutional Neural Network (CNN)** trained on the [Dogs vs Cats dataset](https://www.kaggle.com/datasets/salader/dogs-vs-cats) from Kaggle.  
+I used a **Convolutional Neural Network (CNN)** trained on the [Dogs vs Cats dataset](https://www.kaggle.com/datasets/salader/dogs-vs-cats) from Kaggle.  
 
 The system preprocesses input images, trains a CNN model, and predicts whether a given image is a **cat 🐱** or a **dog 🐶**.  
 This project also saves the trained model (`dog_cat_model.h5`) for future predictions without retraining.
